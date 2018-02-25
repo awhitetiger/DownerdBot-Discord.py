@@ -1,6 +1,6 @@
 # DownerdBot-Discord.py
 Discord Bot for fetching Yu-Gi-Oh! card prices and more(?)
-
+Uses http://yugiohprices.com/ API by studiobebop 
 # Usage
 
 [Card name] Fetches all prices by card name
